@@ -8,5 +8,4 @@ DURGA DEVI M: Team Member
 
 BHARANIDHARAN U:Team Member
 
-Team Mentor:
-Dr.K.R.VALLUVAN
+Team Mentor:S POORNACHANDRAN
